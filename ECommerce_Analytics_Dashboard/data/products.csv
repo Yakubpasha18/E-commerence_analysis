@@ -1,0 +1,13 @@
+product_id,product_name,category,subcategory,unit_price,unit_cost
+P001,Wireless Mouse,Electronics,Accessories,18.99,12.0
+P002,Mechanical Keyboard,Electronics,Accessories,69.99,45.0
+P003,USB-C Hub,Electronics,Accessories,34.99,20.0
+P004,Bluetooth Headphones,Electronics,Audio,59.99,32.0
+P005,Smart Watch,Electronics,Wearables,89.99,55.0
+P006,Laptop Stand,Office,Desk Setup,39.99,21.0
+P007,Notebook Pack,Stationery,Writing,12.99,5.0
+P008,Desk Lamp,Office,Desk Setup,29.99,15.0
+P009,Water Bottle,Lifestyle,Fitness,22.99,9.0
+P010,Backpack,Lifestyle,Travel,49.99,25.0
+P011,Running Shoes,Lifestyle,Fitness,79.99,42.0
+P012,Fitness Band,Electronics,Wearables,44.99,26.0
