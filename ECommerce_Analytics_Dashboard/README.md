@@ -1,7 +1,4 @@
 # E-Commerce Analytics Dashboard
-
-An end-to-end data analytics portfolio project built with **Python, Pandas, SQL and Streamlit**.
-
 The project simulates an e-commerce business and turns raw order data into actionable business insights through an interactive dashboard.
 
 ## Business Questions
@@ -65,20 +62,3 @@ Then open the local Streamlit URL shown in the terminal.
 8. Discount vs margin analysis.
 9. Low-margin product identification.
 10. CSV download of filtered data.
-
-## Interview Talking Points
-
-### Data Engineering
-"I designed a small ETL pipeline where raw order and product CSV files are validated, joined, transformed and converted into business-level metrics."
-
-### SQL
-"I wrote analytical SQL queries using GROUP BY, CASE, JOINs, CTEs and window functions to answer business questions."
-
-### Analytics
-"I used revenue, profit, average order value and profit margin instead of looking only at sales volume."
-
-### Product Thinking
-"The dashboard is filter-driven so a business user can move from a high-level KPI to category, customer and product-level details."
-
-## Important Note
-The dataset is synthetic and created for portfolio/learning purposes. It does not represent a real company's customers or transactions.
